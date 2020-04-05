@@ -6,3 +6,6 @@ Some useful tools for Verilog HDL
 2.Run "perl mk_instance.pl"  
 3.Check out "file.inst" in the current directory  
 4.All files end of ".v" will be instantiated  
+
+# Contact Me
+email: yancheng@tju.edu.cn
